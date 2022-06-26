@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Chango&display=swap");
+
+body {
+  background-image: url("bg.png");
+  margin: 0;
+}
+
+h4 {
+  font-family: Chango;
+  color: #1f4690;
+}
+h5 {
+  color: #06283d;
+}
+
+font {
+  font-family: Chango;
+}
+.box {
+  /* width: 50%; */
+  height: 100%;
+  text-align: center;
+  padding: 10px;
+  margin: 20% auto;
+  border: 4px solid #242f9b;
+  border-radius: 20px;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.container {
+  margin-top: 5%;
+}
